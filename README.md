@@ -45,15 +45,15 @@ Hey there! I'm **Brietta**, a **Computer Science Engineering** student at **Amal
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=briettamariamshibu&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=briettamariamshibu&theme=nightowl" alt="GitHub Streak">
 
   ---
   
-  <img src="https://github-readme-stats.vercel.app/api?username=briettamariamshibu&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=briettamariamshibu&show_icons=true&theme=nightowl" alt="GitHub Stats">
 
   ---
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briettamariamshibu&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briettamariamshibu&layout=compact&theme=nightowl" alt="Top Languages">
   
 </div>  
 
