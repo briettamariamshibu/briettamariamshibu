@@ -1,12 +1,6 @@
-# 🌟 Brietta Mariam Shibu
+# 🌟 Brietta Mariam Shibu   
 
-🚀 **Passionate Developer | UI/UX Designer | AI & Data Science Enthusiast**  
-
-![Profile Banner](https://source.unsplash.com/1600x500/?technology,coding)  
-
-## 👨‍💻 About Me  
-
-Hey there! I'm **Martino**, a **Computer Science Engineering** student at **Amal Jyothi College of Engineering (Autonomous)**. I love **coding**, crafting **beautiful UI/UX designs**, and diving deep into **Artificial Intelligence and Data Science**.  
+Hey there! I'm **Brietta**, a **Computer Science Engineering** student at **Amal Jyothi College of Engineering (Autonomous)**. I love **coding**, crafting **beautiful UI/UX designs**, and diving deep into **Artificial Intelligence and Data Science**.  
 
 💡 **What I Do:**  
 ✔️ **Programming**: Python 🐍 | C | JavaScript (Learning)  
