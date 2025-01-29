@@ -23,12 +23,13 @@ Hey there! I'm **Brietta**, a **Computer Science Engineering** student at **Amal
 
   ## **Tools & Frameworks 🔨**  
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+ 
 
-</div> 
+  ## **Interests**  
+  🎨 UI/UX Design | 🔍 Machine Learning | 📊 Data Science | 🖥️ Web Development  
 
-### **Interests**  
-🎨 UI/UX Design | 🔍 Machine Learning | 📊 Data Science | 🖥️ Web Development  
 
+</div>
 ---
 
 ## 📊 GitHub Stats  
