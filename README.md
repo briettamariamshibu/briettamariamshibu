@@ -43,7 +43,7 @@ Hey there! I'm **Brietta**, a **Computer Science Engineering** student at **Amal
 
 ## 📊 GitHub Stats  
 
-<div align="center">
+<div align="left">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=briettamariamshibu&theme=nightowl" alt="GitHub Streak">
 
