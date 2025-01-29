@@ -21,7 +21,7 @@ Hey there! I'm **Brietta**, a **Computer Science Engineering** student at **Amal
 
 
 
-<div align='center'>
+<div align='left'>
 
   ## **Languages 🌐**  
   
