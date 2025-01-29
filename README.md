@@ -61,9 +61,9 @@ Hey there! I'm **Brietta**, a **Computer Science Engineering** student at **Amal
 
 ## 🌎 Connect With Me  
 
-📩 **Email:** [🌐](https://mail.google.com/mail/?view=cm&fs=1&to=briettashibu@gmail.com)  
-💼 **LinkedIn:** [🌐](https://linkedin.com/in/briettamariamshibu)  
-📸 **Instagram:** [🌐](https://instagram.com/_brieata__)  
+[📩](https://mail.google.com/mail/?view=cm&fs=1&to=briettashibu@gmail.com) **Email:**   
+[💼](https://linkedin.com/in/briettamariamshibu) **LinkedIn:**  
+[📸](https://instagram.com/_brieata__) **Instagram:**   
 
 ---
 
