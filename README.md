@@ -12,18 +12,21 @@ Hey there! I'm **Brietta**, a **Computer Science Engineering** student at **Amal
 
 ## 🚀 Tech Stack  
 
-### **Languages**  
+
 
 <div align='center'>
+
+  ### **Languages 🌐**  
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+ 
 
-</div>  
+  ### **Tools & Frameworks 🔨**  
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
-### **Tools & Frameworks**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+</div> 
 
 ### **Interests**  
 🎨 UI/UX Design | 🔍 Machine Learning | 📊 Data Science | 🖥️ Web Development  
