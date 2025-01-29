@@ -11,7 +11,7 @@ Hey there! I'm **Brietta**, a **Computer Science Engineering** student at **Amal
 ---
 
 
-[![Brietta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=briettamariamshibu&theme=tokyo-night)](https://github.com/briettamariamshibu)
+[![Brietta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=briettamariamshibu&theme=tokyo-night&height=400)](https://github.com/briettamariamshibu)
 
 
 ---
