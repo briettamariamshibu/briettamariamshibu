@@ -53,7 +53,7 @@ Hey there! I'm **Brietta**, a **Computer Science Engineering** student at **Amal
 
   ---
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briettamariamshibu&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briettamariamshibu&layout=compact&theme=Yellow" alt="Top Languages">
   
 </div>  
 
