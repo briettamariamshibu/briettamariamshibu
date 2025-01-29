@@ -15,9 +15,7 @@ Hey there! I'm **Brietta**, a **Computer Science Engineering** student at **Amal
 
 
 ---
-
-
-## 🚀 Tech Stack  
+ 
 
 
 
