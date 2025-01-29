@@ -1,4 +1,4 @@
-# 🌟 Brietta Mariam Shibu   
+# Brietta Mariam Shibu 🌟
 
 Hey there! I'm **Brietta**, a **Computer Science Engineering** student at **Amal Jyothi College of Engineering (Autonomous)**. I love **coding**, crafting **beautiful UI/UX designs**, and diving deep into **Artificial Intelligence and Data Science**.  
 
